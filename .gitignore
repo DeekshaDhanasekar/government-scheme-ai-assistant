@@ -1,0 +1,14 @@
+
+# Python virtual environments
+backend/venv/
+backend/.venv/
+venv/
+.venv/
+node_modules/
+.env
+*.db
+
+backend/venv/
+
+.env
+backend/.env

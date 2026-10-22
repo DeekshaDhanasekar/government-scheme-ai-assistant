@@ -1,0 +1,1 @@
+{"error":"ElevenLabs TTS failed","details":"{\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"Neither authorization header nor xi-api-key received, please provide one.\",\"status\":\"needs_authorization\",\"request_id\":\"cc24960a1a9f331fc09a9a4de24c08ac\"}}"}
